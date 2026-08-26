@@ -10,10 +10,10 @@ SpotifyOn/
 │  
 ├── dadosspotify/        # Pasta local de dados (não inclusa no GitHub)  
 ├── modulos/             # Módulos principais do sistema  
-│   ├── arquivo.py  
-│   ├── consulta.py  
-│   ├── filtros.py  
-│   └── modelo.py  
+│_______├── arquivo.py  
+│_______├── consulta.py  
+│_______├── filtros.py  
+│_______└── modelo.py  
 │  
 ├── .gitignore           # Arquivos ignorados pelo Git  
 ├── main.py              # Script principal para execução  
