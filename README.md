@@ -5,8 +5,8 @@ https://www.kaggle.com/datasets/undefinenull/million-song-dataset-spotify-lastfm
 A ideia geral é o usuário digitar uma música e o sistema vai dizer se existe uma correspondência e por fim aparecerá músicas recomendadas com base na confirmação da música digitada pelo usuário.  
 Para utilizar o sistema: python3 main.py
 # Estrutura do Projeto
-O repositório está organizado da seguinte forma:  
-SpotifyOn/
+O repositório está organizado da seguinte forma:    
+SpotifyOn/  
 │
 ├── dadosspotify/        # Pasta local de dados (não inclusa no GitHub)  
 ├── modulos/             # Módulos principais do sistema  
