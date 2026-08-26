@@ -7,14 +7,14 @@ Para utilizar o sistema: python3 main.py
 # Estrutura do Projeto
 O repositório está organizado da seguinte forma:    
 SpotifyOn/  
-│
+│  
 ├── dadosspotify/        # Pasta local de dados (não inclusa no GitHub)  
 ├── modulos/             # Módulos principais do sistema  
 │   ├── arquivo.py  
 │   ├── consulta.py  
 │   ├── filtros.py  
 │   └── modelo.py  
-│
+│  
 ├── .gitignore           # Arquivos ignorados pelo Git  
 ├── main.py              # Script principal para execução  
 ├── main.ipynb           # Notebook de testes/exploração  
